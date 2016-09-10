@@ -1,0 +1,13 @@
+{
+    "name": "jchavarr/trabajo",
+    "description": "Ejemplo con willdurand Geocoder 3.x",
+    "authors": [
+        {
+            "name": "Jaime Chavarriaga",
+            "email": "JaimeChavarriaga@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "willdurand/geocoder": "^3.2"
+    }
+}
